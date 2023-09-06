@@ -1,0 +1,9 @@
+1. start new project 
+2. create the core app
+3. create the posts app
+4. register both apps in the settings file of the main project
+5. create a urls file in both apps and include in the main app.urls 
+6. create models, makemigrtaions, migrate and create superuser
+7. register models in core.admin
+8. make a templates folder
+9. create two html files in the template folder- i. base.html, ii. index.html
